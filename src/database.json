@@ -1,0 +1,78 @@
+{
+  "users": {
+    "6285824212737@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281232615640@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50
+    },
+    "6282334018401@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 50
+    },
+    "6287765038959@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 0
+    }
+  },
+  "premium": {},
+  "banned": {},
+  "group": {
+    "6285824212737@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": false,
+      "antisettings": true,
+      "antilinkv2": true
+    },
+    "6281232615640@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": false,
+      "antisettings": true,
+      "antilinkv2": true
+    },
+    "6282334018401@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": false,
+      "antisettings": true,
+      "antilinkv2": true
+    },
+    "6287765038959@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": false,
+      "antisettings": true,
+      "antilinkv2": true
+    }
+  },
+  "database": {},
+  "settings": {
+    "6285824212737@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    }
+  },
+  "donate": {},
+  "others": {},
+  "sticker": {},
+  "chats": {},
+  "game": {},
+  "anonymous": {}
+}
